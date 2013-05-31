@@ -1,0 +1,2 @@
+The approach to solve the problem is to first find all the routes using which Agent can take all the passengers form source to destination.
+Then find the route which can take max no. of passengers at a time. 

@@ -1,0 +1,22 @@
+Hi,
+
+Today you should practice the core java fundamentals using the below exercises.
+
+1)	Date/Time: Write a program to calculate the age including hours and minutes.  Take the input as DOB and output the age. Your program should accept pre-defined date formats and should be able to handle the unsupported date formats.
+2)	Map Usage: Accept the numbers from zero to twenty and return the division of the numbers. For example…
+Java Test thiry ten
+Output 3
+3)	List and File Usage: Read the names from a file and sort them in the Ascending order
+4)	Polymorphism: Assume that there is a shop which can rent Books, DVDs, Laptops. Each item has a serial number. Using the OOPs concept write a program to lookup based on serial number and output the information related to the item.
+Java Test 12345
+Output DVD Title: Inception, Year: 2010, Type: Movie, InStock: Yes
+
+Java Test 98490
+                Output Book Title: Head First Java, Author: Kathy Sierra, ISBN: 1243556
+
+Please note that your program should handle the exceptions and follow the coding conventions properly.
+
+Feel free to reach me for clarifications.
+
+Thanks,
+Navaprasad
